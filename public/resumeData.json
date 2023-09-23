@@ -2,7 +2,7 @@
   "main": {
     "name": "Hemanth Chandra",
     "occupation": "Full Stack Developer",
-    "description": "Full Stack Developer with 3+ years of work experience building responsive web applications, single page applications encompassing both front-end and back-end development with DevOps proficiency. Well versed in Full Application Software Development Lifecycle.",
+    "description": "I have 3+ years of work experience building responsive web applications, single page applications encompassing both front-end and back-end development with DevOps proficiency. Well versed in Full Application Software Development Lifecycle.",
     "image": "profilepic.jpg",
     "bio": "I'm a seasoned Full Stack Developer with 3+ years of experience, specializing in building responsive web and single page applications. Proficient in both front-end and back-end development, I bring expertise in the Full Application Software Development Lifecycle and DevOps practices. My passion for technology, problem-solving skills, and commitment to excellence drive my contributions to every project.",
     "contactmessage": "",
@@ -41,12 +41,14 @@
         "school": "Andhra University",
         "degree": "Bachelors of Technology (Geo - Informatics)",
         "graduated": "April 2019",
+        "score" : "8.39/10",
         "description": "In my Geo-informatics program, I gained expertise in Java, C++, web development (HTML, CSS, JavaScript), and Geographic Information Systems (GIS). This education equipped me with strong programming skills, web development capabilities, and a deep understanding of spatial data analysis, making me well-rounded in IT and geospatial fields."
       },
       {
         "school": "Gayatri Junior College",
         "degree": "Board of Intermediate Education - MPC",
         "graduated": "May 2015",
+        "score" : "976/1000",
         "description": "During my intermediate education, I immersed myself in the fields of Mathematics, Physics, and Chemistry. This curriculum provided a balanced blend of theoretical knowledge and practical applications. I honed my analytical and problem-solving skills, developed a deep understanding of fundamental scientific principles, and acquired the ability to conduct experiments and apply mathematical concepts in real-world scenarios. This well-rounded foundation has been invaluable in my academic and professional journey."
       }
     ],
